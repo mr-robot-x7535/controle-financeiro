@@ -1,4 +1,4 @@
-//git add . && git commit -m "descreva a alteração" && git push   
+//git add .; git commit -m "descrever alteração"; git push
 //tem que salvar kkkkkk sou burro ainda
 
 import java.math.BigDecimal;
