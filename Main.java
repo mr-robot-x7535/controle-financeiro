@@ -1,3 +1,6 @@
+//git add . && git commit -m "descreva a alteração" && git push   
+//tem que salvar kkkkkk sou burro ainda
+
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.Scanner;
